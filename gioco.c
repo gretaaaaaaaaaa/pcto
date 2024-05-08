@@ -35,7 +35,14 @@ if( risposta = si )
                 printf("un'ora e mezza dopo...\n");
                 printf("com'è andata(bene/male)?\n");
                 scanf("%d" &risultato);
-                if
+                if(risultato = bene)
+                {
+                    printf("ottimo! Ne ero certo\n");
+                    printf("ora ti tocca scegliere la prossima materia, quale sarà?\n");
+                    scanf("%d" &prossima materia);
+                    printf("ottima scelta! Controlliamo a che ora è... oh no! ma è oraaaaaa! CORRIII\n");
+                    printf("*finito l'esame*");
+                }
                 
             }
 
